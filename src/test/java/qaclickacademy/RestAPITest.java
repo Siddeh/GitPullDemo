@@ -8,6 +8,7 @@ public class RestAPITest {
 		System.out.println("RestMethod1");
 		System.out.println("RestMethod2");
 		System.out.println("RestMethod3");
+		System.out.println("Rest Method 4");
 	}
 	@Test
 	public void RestMethod2() {
